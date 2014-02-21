@@ -1,0 +1,12 @@
+C:\Users\StevenSong\Documents\Visual Studio 2012\Projects\GalioFieldTest\GalioFieldTest\bin\Debug\GalioFieldTest.exe.config
+C:\Users\StevenSong\Documents\Visual Studio 2012\Projects\GalioFieldTest\GalioFieldTest\obj\Debug\GalioFieldTest.csprojResolveAssemblyReference.cache
+C:\Users\StevenSong\Documents\Visual Studio 2012\Projects\GalioFieldTest\GalioFieldTest\bin\Debug\GalioFieldTest.exe
+C:\Users\StevenSong\Documents\Visual Studio 2012\Projects\GalioFieldTest\GalioFieldTest\bin\Debug\GalioFieldTest.pdb
+C:\Users\StevenSong\Documents\Visual Studio 2012\Projects\GalioFieldTest\GalioFieldTest\obj\Debug\GalioFieldTest.exe
+C:\Users\StevenSong\Documents\Visual Studio 2012\Projects\GalioFieldTest\GalioFieldTest\obj\Debug\GalioFieldTest.pdb
+C:\Users\StevenSong\Google Drive\GalioFieldTest\GalioFieldTest\bin\Debug\GalioFieldTest.exe.config
+C:\Users\StevenSong\Google Drive\GalioFieldTest\GalioFieldTest\obj\Debug\GalioFieldTest.exe
+C:\Users\StevenSong\Google Drive\GalioFieldTest\GalioFieldTest\obj\Debug\GalioFieldTest.pdb
+C:\Users\StevenSong\Google Drive\GalioFieldTest\GalioFieldTest\obj\Debug\GalioFieldTest.csprojResolveAssemblyReference.cache
+C:\Users\StevenSong\Google Drive\GalioFieldTest\GalioFieldTest\bin\Debug\GalioFieldTest.exe
+C:\Users\StevenSong\Google Drive\GalioFieldTest\GalioFieldTest\bin\Debug\GalioFieldTest.pdb
